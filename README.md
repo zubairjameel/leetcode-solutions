@@ -25,4 +25,16 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/zubairjameel/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
+## String
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/zubairjameel/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/zubairjameel/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
