@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zubairjameel/leetcode-solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/zubairjameel/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
