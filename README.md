@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/zubairjameel/leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [1319-unique-number-of-occurrences](https://github.com/zubairjameel/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zubairjameel/leetcode-solutions/tree/master/0001-two-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/zubairjameel/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Tree
 |  |
 | ------- |
