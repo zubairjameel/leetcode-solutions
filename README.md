@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/zubairjameel/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/zubairjameel/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3195-separate-black-and-white-balls](https://github.com/zubairjameel/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
