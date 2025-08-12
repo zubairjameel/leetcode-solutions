@@ -45,4 +45,16 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/zubairjameel/leetcode-solutions/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/zubairjameel/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/zubairjameel/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
