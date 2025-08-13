@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/zubairjameel/leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1319-unique-number-of-occurrences](https://github.com/zubairjameel/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1603-running-sum-of-1d-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/zubairjameel/leetcode-solutions/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
