@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/zubairjameel/leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1319-unique-number-of-occurrences](https://github.com/zubairjameel/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
