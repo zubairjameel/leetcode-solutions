@@ -9,6 +9,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1319-unique-number-of-occurrences](https://github.com/zubairjameel/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/zubairjameel/leetcode-solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/zubairjameel/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/zubairjameel/leetcode-solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3195-separate-black-and-white-balls](https://github.com/zubairjameel/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -50,6 +52,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/zubairjameel/leetcode-solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
 | ------- |
