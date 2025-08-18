@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/zubairjameel/leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/zubairjameel/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/zubairjameel/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zubairjameel/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/zubairjameel/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/zubairjameel/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Tree
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/zubairjameel/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
