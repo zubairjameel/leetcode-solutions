@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/zubairjameel/leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/zubairjameel/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/zubairjameel/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/zubairjameel/leetcode-solutions/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -96,6 +98,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
 ## Monotonic Stack
