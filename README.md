@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/zubairjameel/leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0084-largest-rectangle-in-histogram](https://github.com/zubairjameel/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/zubairjameel/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -98,11 +99,13 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/zubairjameel/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/zubairjameel/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
