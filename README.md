@@ -18,6 +18,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/zubairjameel/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/zubairjameel/leetcode-solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2058-concatenation-of-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/zubairjameel/leetcode-solutions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
