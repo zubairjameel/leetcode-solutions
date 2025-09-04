@@ -110,4 +110,12 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/zubairjameel/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/zubairjameel/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/zubairjameel/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
