@@ -44,6 +44,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/zubairjameel/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/zubairjameel/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/zubairjameel/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -113,6 +114,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/zubairjameel/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/zubairjameel/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
