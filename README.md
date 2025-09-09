@@ -28,10 +28,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -40,6 +42,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Two Pointers
 |  |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/zubairjameel/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
