@@ -6,9 +6,9 @@ class Solution:
         while left < right:
             mid = (left + right) // 2
             
-            if arr[mid] < arr[mid + 1]:  # still climbing
+            if arr[mid] < arr[mid + 1]: 
                 left = mid + 1
-            else:  # we are in the descending part
+            else: 
                 right = mid
         
-        return left  # or right, both are same here
+        return left 
