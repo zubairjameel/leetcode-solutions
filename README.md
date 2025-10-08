@@ -12,6 +12,7 @@
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/zubairjameel/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/zubairjameel/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
@@ -130,11 +131,13 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/zubairjameel/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/zubairjameel/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/zubairjameel/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
 ## Linked List
 |  |
