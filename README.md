@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/zubairjameel/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zubairjameel/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/zubairjameel/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/zubairjameel/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/zubairjameel/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/zubairjameel/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zubairjameel/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/zubairjameel/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/zubairjameel/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zubairjameel/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
