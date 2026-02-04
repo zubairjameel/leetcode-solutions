@@ -96,6 +96,7 @@
 | [0035-search-insert-position](https://github.com/zubairjameel/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zubairjameel/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/zubairjameel/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/zubairjameel/leetcode-solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/zubairjameel/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/zubairjameel/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
