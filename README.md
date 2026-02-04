@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/zubairjameel/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/zubairjameel/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/zubairjameel/leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/zubairjameel/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -97,6 +98,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zubairjameel/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/zubairjameel/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/zubairjameel/leetcode-solutions/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/zubairjameel/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/zubairjameel/leetcode-solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
