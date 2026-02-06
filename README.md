@@ -20,6 +20,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
 | [1319-unique-number-of-occurrences](https://github.com/zubairjameel/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/zubairjameel/leetcode-solutions/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/zubairjameel/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/zubairjameel/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
