@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/zubairjameel/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/zubairjameel/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/zubairjameel/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/zubairjameel/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/zubairjameel/leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/zubairjameel/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/zubairjameel/leetcode-solutions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/zubairjameel/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -143,6 +145,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/zubairjameel/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/zubairjameel/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/zubairjameel/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/zubairjameel/leetcode-solutions/tree/master/0883-car-fleet) |
