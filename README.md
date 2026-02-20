@@ -43,6 +43,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -53,6 +54,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -147,6 +149,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zubairjameel/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/zubairjameel/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/zubairjameel/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/zubairjameel/leetcode-solutions/tree/master/0735-asteroid-collision) |
