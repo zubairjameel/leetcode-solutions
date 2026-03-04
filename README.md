@@ -49,6 +49,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/zubairjameel/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zubairjameel/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/zubairjameel/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
